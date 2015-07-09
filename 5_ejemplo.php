@@ -23,9 +23,9 @@
 	
 			<li>Ingresar los campos de texto</li>
 				<p>Entre las etiquetas &lt;form&gt; y &lt;/form&gt; vamos a colocar los distintos campos de entrada que tendrá el usuario en el formulario. </p>
-				<p>Pensá en qué campos de texto se necesitan casi a menudo en un formulario de contacto.</p>
+				<p>Los campos de texto van a tener los siguientes nombres: "nombre", "apellido", "email", "telefono" y "mensaje" .</p>
 				<br />
-				<p>Recordá que podés revisar las distintas variantes de campos de entrada <span onclick="Elementos()" style="text-decoration: initial; cursor: pointer;">volviendo al paso anterior</span>. </p>
+				<p>Recordá que podés revisar las distintas variantes de campos de entrada y mensaje. <span onclick="Elementos()" style="text-decoration: initial; cursor: pointer;">volviendo al paso anterior</span>. </p>
 				<div class="cuadro-ejemplo">
 				Te debería quedar algo así: 
 					<pre>&lt;form action="envio-correo.php" method="POST"&gt;

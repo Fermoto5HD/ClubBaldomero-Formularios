@@ -57,7 +57,7 @@
 		background-color: rgb(200, 200, 200);
 		cursor: pointer;
 	}
-	ol{
+	ol, ul{
 		padding-left: 24px;
 	}
 	h1{
@@ -99,7 +99,7 @@
 		}
 		.cover-espacio{height: 66%;}
 		.cover{background-image: url('../img/Home_Baldomero.png');}
-		.cover#home{background-image: url('../img/ProgramaTuFuturo.png');}
+		.cover#home, .cover#fin{background-image: url('../img/ProgramaTuFuturo.png');}
 		.cover#introduccion{background-image: url('../img/cover-introduccion.jpg');}
 		.cover#elementos{background-image: url('../img/cover-elementos.jpg');}
 		.cover#basicasPHP{background-image: url('../img/cover-basicasPHP.jpg');}
